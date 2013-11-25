@@ -1,4 +1,4 @@
 IntroTALN
 =========
 
-Module X7IT020 d'introduction au TALN en master 1 ATAL.
+Ce dossier contient les documents relatifs aux TP du module X7IT020 ("Introduction au traitement automatique de la langue naturelle") du master 1 ATAL à l'Université de Nantes.
