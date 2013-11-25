@@ -1,4 +1,4 @@
 IntroTALN
 =========
 
-Module d'introduction au TALN en master 1 ATAL
+Module X7IT020 d'introduction au TALN en master 1 ATAL.
